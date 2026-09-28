@@ -1,0 +1,27 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "keepNbtOfReagent": false,
+  "output": {
+    "item": "mintstinker:wizard_alloy"
+  },
+  "pedestalItems": [
+    {
+      "tag": "forge:gems/source"
+    },
+    {
+      "tag": "forge:gems/source"
+    },
+    {
+      "tag": "forge:gems/source"
+    },
+    {
+      "tag": "forge:gems/source"
+    }
+  ],
+  "reagent": [
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "sourceCost": 300
+}

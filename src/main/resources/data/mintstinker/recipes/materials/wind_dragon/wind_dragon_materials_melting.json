@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "mintstinker:wind_dragon",
+  "temperature": 450,
+  "result": {
+    "fluid": "mintstinker:molten_wind_dragon",
+    "amount": 90
+  }
+}

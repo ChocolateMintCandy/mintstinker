@@ -1,0 +1,22 @@
+{
+  "perStat": {
+    "tconstruct:melee_harvest": [
+      {
+        "name": "mintstinker:windpressure",
+        "level": 1
+      }
+    ],
+    "tconstruct:ranged": [
+      {
+        "name": "mintstinker:windpressure",
+        "level": 1
+      }
+    ],
+    "tconstruct:armor": [
+      {
+        "name": "mintstinker:windpressure",
+        "level": 1
+      }
+    ]
+  }
+}

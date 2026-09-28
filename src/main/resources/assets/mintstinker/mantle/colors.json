@@ -1,0 +1,12 @@
+{
+  "material.mintstinker": {
+    "wizard_alloy": "#cb8aeb",
+    "wind_dragon": "#cb8aeb"
+  },
+  "modifier.mintstinker": {
+    "magicmark": "#9f3ecf",
+    "WindPressure": "#9f3ecf"
+
+
+  }
+}

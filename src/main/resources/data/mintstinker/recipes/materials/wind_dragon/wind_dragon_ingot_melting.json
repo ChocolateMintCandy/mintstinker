@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "mintstinker:wind_dragon"
+  },
+  "result": {
+    "fluid": "mintstinker:molten_wind_dragon",
+    "amount": 90
+  },
+  "temperature": 500,
+  "time": 25
+}

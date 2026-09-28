@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/ingot"
+  },
+  "cast_consumed": false,
+  "fluid": {
+    "name": "mintstinker:molten_wind_dragon",
+    "amount": 90
+  },
+  "result": "mintstinker:wind_dragon",
+  "cooling_time": 200
+}

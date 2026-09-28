@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/single_use/ingot"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "name": "mintstinker:molten_wizard_alloy",
+    "amount": 90
+  },
+  "result": "mintstinker:wizard_alloy",
+  "cooling_time": 200
+}

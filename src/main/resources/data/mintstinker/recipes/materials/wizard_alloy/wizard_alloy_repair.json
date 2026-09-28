@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "mintstinker:wizard_alloy"
+  },
+  "value": 1,
+  "needed": 1,
+  "material": "mintstinker:wizard_alloy"
+}

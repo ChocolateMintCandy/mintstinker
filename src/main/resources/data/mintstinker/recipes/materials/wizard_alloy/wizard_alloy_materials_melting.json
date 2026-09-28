@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "mintstinker:wizard_alloy",
+  "temperature": 150,
+  "result": {
+    "fluid": "mintstinker:molten_wizard_alloy",
+    "amount": 90
+  }
+}

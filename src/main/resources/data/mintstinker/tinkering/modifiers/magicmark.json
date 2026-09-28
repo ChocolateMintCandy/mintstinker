@@ -1,0 +1,16 @@
+{
+  "type": "tconstruct:composable",
+  "level_display": "tconstruct:no_levels",
+  "modules": [
+    {
+      "type": "tconstruct:constant_enchantment",
+      "level": 4,
+      "name": "ars_nouveau:reactive",
+      "tool": {
+        "type": "mantle:tag",
+        "tag": "tconstruct:modifiable/melee"
+      }
+    }
+  ],
+  "tooltip_display": "always"
+}

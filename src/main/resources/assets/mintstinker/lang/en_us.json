@@ -1,0 +1,26 @@
+{
+  "itemGroup.mintstinker.materials": "MintsTinker-Materials",
+
+  "fluid.mintstinker.molten_wizard_alloy": "molten_wizard_alloy",
+  "fluid.mintstinker.molten_wind_dragon": "molten_wind_dragon",
+
+  "item.mintstinker.molten_wizard_alloy_bucket": "molten_wizard_alloy_bucket",
+  "item.mintstinker.molten_wind_dragon_bucket": "molten_wind_dragon_bucket",
+
+  "item.mintstinker.wizard_alloy": "wizard_alloy",
+  "item.mintstinker.wind_dragon": "wind_dragon",
+
+  "material.mintstinker.wizard_alloy": "wizard_alloy",
+  "material.mintstinker.wizard_alloy.encyclopedia": "さあ、ショータイムだ!",
+  "material.mintstinker.wizard_alloy.flavor": "A product of wild magic",
+
+  "modifier.mintstinker.magicmark": "Magic Circuit",
+  "modifier.mintstinker.magicmark.description": "Can perform reaction enchantments in enchantment rituals and trigger spells stably",
+  "modifier.mintstinker.magicmark.flavor": "Becoming a qualified wizard",
+
+  "modifier.mintstinker.windpressure": "windpressure",
+  "modifier.mintstinker.windpressure.description": "Gives players a flying effect within a 60-block range and gives hostile creatures a gravity effect",
+  "modifier.mintstinker.windpressure.flavor": "Dragon's Wind Magic",
+
+  "effect.mintstinker.magical_disease": "Magische_wanorde"
+}

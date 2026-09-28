@@ -1,0 +1,22 @@
+{
+  "perStat": {
+    "tconstruct:melee_harvest": [
+      {
+        "name": "mintstinker:magicmark",
+        "level": 1
+      }
+    ],
+    "tconstruct:ranged": [
+      {
+        "name": "mintstinker:magicmark",
+        "level": 1
+      }
+    ],
+    "tconstruct:armor": [
+      {
+        "name": "mintstinker:magicmark",
+        "level": 1
+      }
+    ]
+  }
+}

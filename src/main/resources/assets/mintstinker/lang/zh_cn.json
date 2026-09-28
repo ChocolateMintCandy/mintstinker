@@ -1,0 +1,31 @@
+{
+  "itemGroup.mintstinker.materials": "薄荷工匠-材料",
+
+  "fluid.mintstinker.molten_wizard_alloy": "熔融巫师合金",
+  "fluid.mintstinker.molten_wind_dragon": "熔融飓风飞龙",
+
+  "item.mintstinker.molten_wizard_alloy_bucket": "熔融巫师合金桶",
+  "item.mintstinker.molten_wind_dragon_bucket": "熔融飓风飞龙桶",
+
+  "item.mintstinker.wizard_alloy": "巫师合金",
+  "item.mintstinker.wind_dragon": "飓风飞龙",
+
+  "material.mintstinker.wizard_alloy": "巫师合金",
+  "material.mintstinker.wizard_alloy.encyclopedia": "来吧，Show Time到了",
+  "material.mintstinker.wizard_alloy.flavor": "荒野魔法的产物",
+
+  "material.mintstinker.wind_dragon": "飓风飞龙",
+  "material.mintstinker.wind_dragon.encyclopedia": "书龙一脉中擅长风系魔法的远古种",
+  "material.mintstinker.wind_dragon.flavor": "统领天空",
+
+  "modifier.mintstinker.magicmark": "魔力回路",
+  "modifier.mintstinker.magicmark.description": "可以在附魔仪式上进行反应附魔，并稳定触发法术。",
+  "modifier.mintstinker.magicmark.flavor": "成为一名合格的巫师",
+
+  "modifier.mintstinker.windpressure": "风压",
+  "modifier.mintstinker.windpressure.description": "60格范围内给予玩家飞行效果，给予敌对生物重力效果",
+  "modifier.mintstinker.windpressure.flavor": "飞龙的风系魔法",
+
+  "effect.mintstinker.magical_disease": "魔力短路"
+}
+

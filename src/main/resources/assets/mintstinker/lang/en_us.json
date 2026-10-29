@@ -1,26 +1,53 @@
 {
-  "itemGroup.mintstinker.materials": "MintsTinker-Materials",
+  "itemGroup.mintstinker.materials": "MintsTinker Materials",
 
-  "fluid.mintstinker.molten_wizard_alloy": "molten_wizard_alloy",
-  "fluid.mintstinker.molten_wind_dragon": "molten_wind_dragon",
+  "fluid.mintstinker.molten_wizard_alloy": "Molten Wizard Alloy",
+  "fluid.mintstinker.molten_wind_dragon": "Molten Wind Dragon",
 
-  "item.mintstinker.molten_wizard_alloy_bucket": "molten_wizard_alloy_bucket",
-  "item.mintstinker.molten_wind_dragon_bucket": "molten_wind_dragon_bucket",
+  "block.mintstinker.molten_wizard_alloy_fluid": "Molten Wizard Alloy",
+  "block.mintstinker.molten_wind_dragon_fluid": "Molten Wind Dragon",
 
-  "item.mintstinker.wizard_alloy": "wizard_alloy",
-  "item.mintstinker.wind_dragon": "wind_dragon",
+  "item.mintstinker.molten_wizard_alloy_bucket": "Molten Wizard Alloy Bucket",
+  "item.mintstinker.molten_wind_dragon_bucket": "Molten Wind Dragon Bucket",
 
-  "material.mintstinker.wizard_alloy": "wizard_alloy",
-  "material.mintstinker.wizard_alloy.encyclopedia": "さあ、ショータイムだ!",
-  "material.mintstinker.wizard_alloy.flavor": "A product of wild magic",
+  "item.mintstinker.wizard_alloy": "Wizard Alloy",
+  "item.mintstinker.wind_dragon": "Wind Dragon",
+  "item.mintstinker.magic_core": "Magic Core",
+
+  "item.mintstinker.magitek_armor_helmet": "Magitek Helmet",
+  "item.mintstinker.magitek_armor_chestplate": "Magitek Chestplate",
+  "item.mintstinker.magitek_armor_leggings": "Magitek Leggings",
+  "item.mintstinker.magitek_armor_boots": "Magitek Boots",
+  "gui.mintstinker.magitek_armor": "Magitek Armor",
+  "gui.mintstinker.magitek_armor.description": "A dedicated armor set assembled from plating, maille, and a magic core.",
+
+  "material.mintstinker.magic_core": "Magic Core",
+  "material.mintstinker.magic_core.encyclopedia": "A core part that condenses mana",
+  "material.mintstinker.magic_core.flavor": "Heart of the circuit",
+  "stat.mintstinker.magic_core": "Magic Core",
+
+  "material.mintstinker.wizard_alloy": "Wizard Alloy",
+  "material.mintstinker.wizard_alloy.encyclopedia": "Use your imagination",
+  "material.mintstinker.wizard_alloy.flavor": "A product of innovation",
+
+  "material.mintstinker.wind_dragon": "Wind Dragon",
+  "material.mintstinker.wind_dragon.encyclopedia": "A fantasy creature skilled in wind magic",
+  "material.mintstinker.wind_dragon.flavor": "Ruler of the skies",
 
   "modifier.mintstinker.magicmark": "Magic Circuit",
-  "modifier.mintstinker.magicmark.description": "Can perform reaction enchantments in enchantment rituals and trigger spells stably",
-  "modifier.mintstinker.magicmark.flavor": "Becoming a qualified wizard",
+  "modifier.mintstinker.magicmark.description": "Can perform reactive enchanting in the enchantment ritual and trigger spells stably.",
+  "modifier.mintstinker.magicmark.flavor": "Use your imagination",
 
-  "modifier.mintstinker.windpressure": "windpressure",
-  "modifier.mintstinker.windpressure.description": "Gives players a flying effect within a 60-block range and gives hostile creatures a gravity effect",
-  "modifier.mintstinker.windpressure.flavor": "Dragon's Wind Magic",
+  "modifier.mintstinker.windpressure": "Wind Pressure",
+  "modifier.mintstinker.windpressure.description": "Grants players a flight effect and gives non-player creatures within a 20-block radius a gravity effect.",
+  "modifier.mintstinker.windpressure.flavor": "Wind magic of the dragon",
 
-  "effect.mintstinker.magical_disease": "Magische_wanorde"
+  "modifier.mintstinker.windblade": "Wind Blade",
+  "modifier.mintstinker.windblade.description": "Hold right-click to spend your own mana and unleash a wind-magic slash.",
+  "modifier.mintstinker.windblade.flavor": "Release",
+
+  "effect.mintstinker.magical_disease": "Magical Disease",
+
+  "entity.mintstinker.wind_blade": "windblade",
+  "subtitles.mintstinker.windblade_launch": "Slash released"
 }

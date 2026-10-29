@@ -1,27 +1,31 @@
 {
-  "type": "ars_nouveau:enchanting_apparatus",
-  "keepNbtOfReagent": false,
-  "output": {
-    "item": "mintstinker:wizard_alloy"
+  "type": "ars_nouveau:imbuement",
+  "input": {
+    "item": "minecraft:gold_ingot"
   },
+  "output": "mintstinker:wizard_alloy",
+  "count": 1,
+  "source": 300,
   "pedestalItems": [
     {
-      "tag": "forge:gems/source"
+      "item": {
+        "tag": "forge:gems/source"
+      }
     },
     {
-      "tag": "forge:gems/source"
+      "item": {
+        "tag": "forge:gems/source"
+      }
     },
     {
-      "tag": "forge:gems/source"
+      "item": {
+        "tag": "forge:gems/source"
+      }
     },
     {
-      "tag": "forge:gems/source"
+      "item": {
+        "tag": "forge:gems/source"
+      }
     }
-  ],
-  "reagent": [
-    {
-      "item": "minecraft:gold_ingot"
-    }
-  ],
-  "sourceCost": 300
+  ]
 }

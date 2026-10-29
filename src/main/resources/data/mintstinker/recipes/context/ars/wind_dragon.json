@@ -1,39 +1,31 @@
 {
-  "type": "ars_nouveau:enchanting_apparatus",
-  "keepNbtOfReagent": false,
-  "output": {
-    "item": "mintstinker:wind_dragon"
+  "type": "ars_nouveau:imbuement",
+  "input": {
+    "item": "mintstinker:wizard_alloy"
   },
+  "output": "mintstinker:wind_dragon",
+  "count": 1,
+  "source": 1000,
   "pedestalItems": [
     {
-      "item": "ars_nouveau:wilden_wing"
+      "item": {
+        "item": "ars_nouveau:ritual_flight"
+      }
     },
     {
-      "item": "ars_nouveau:air_essence"
+      "item": {
+        "item": "ars_nouveau:bookwyrm_charm"
+      }
     },
     {
-      "item": "ars_nouveau:wilden_wing"
+      "item": {
+        "item": "ars_nouveau:ritual_gravity"
+      }
     },
     {
-      "item": "ars_nouveau:air_essence"
-    },
-    {
-      "item": "ars_nouveau:wilden_wing"
-    },
-    {
-      "item": "ars_nouveau:air_essence"
-    },
-    {
-      "item": "ars_nouveau:wilden_wing"
-    },
-    {
-      "item": "ars_nouveau:air_essence"
+      "item": {
+        "item": "ars_nouveau:air_essence"
+      }
     }
-  ],
-  "reagent": [
-    {
-      "item": "ars_nouveau:bookwyrm_charm"
-    }
-  ],
-  "sourceCost": 1000
+  ]
 }

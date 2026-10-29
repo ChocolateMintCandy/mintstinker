@@ -4,28 +4,51 @@
   "fluid.mintstinker.molten_wizard_alloy": "熔融巫师合金",
   "fluid.mintstinker.molten_wind_dragon": "熔融飓风飞龙",
 
+  "block.mintstinker.molten_wizard_alloy_fluid": "熔融巫师合金",
+  "block.mintstinker.molten_wind_dragon_fluid": "熔融飓风飞龙",
+
   "item.mintstinker.molten_wizard_alloy_bucket": "熔融巫师合金桶",
   "item.mintstinker.molten_wind_dragon_bucket": "熔融飓风飞龙桶",
 
   "item.mintstinker.wizard_alloy": "巫师合金",
   "item.mintstinker.wind_dragon": "飓风飞龙",
+  "item.mintstinker.magic_core": "魔力核心",
+
+  "item.mintstinker.magitek_armor_helmet": "魔导铠头盔",
+  "item.mintstinker.magitek_armor_chestplate": "魔导铠胸甲",
+  "item.mintstinker.magitek_armor_leggings": "魔导铠护腿",
+  "item.mintstinker.magitek_armor_boots": "魔导铠靴子",
+  "gui.mintstinker.magitek_armor": "魔导铠",
+  "gui.mintstinker.magitek_armor.description": "使用板甲部件、锁子甲和魔力核心组装的专属盔甲。",
+
+  "material.mintstinker.magic_core": "魔力核心",
+  "material.mintstinker.magic_core.encyclopedia": "凝聚魔力的核心部件",
+  "material.mintstinker.magic_core.flavor": "回路之心",
+  "stat.mintstinker.magic_core": "魔力核心",
 
   "material.mintstinker.wizard_alloy": "巫师合金",
-  "material.mintstinker.wizard_alloy.encyclopedia": "来吧，Show Time到了",
-  "material.mintstinker.wizard_alloy.flavor": "荒野魔法的产物",
+  "material.mintstinker.wizard_alloy.encyclopedia": "发挥想象力吧",
+  "material.mintstinker.wizard_alloy.flavor": "创新之物",
 
   "material.mintstinker.wind_dragon": "飓风飞龙",
-  "material.mintstinker.wind_dragon.encyclopedia": "书龙一脉中擅长风系魔法的远古种",
+  "material.mintstinker.wind_dragon.encyclopedia": "精通风魔法的幻想种",
   "material.mintstinker.wind_dragon.flavor": "统领天空",
 
   "modifier.mintstinker.magicmark": "魔力回路",
   "modifier.mintstinker.magicmark.description": "可以在附魔仪式上进行反应附魔，并稳定触发法术。",
-  "modifier.mintstinker.magicmark.flavor": "成为一名合格的巫师",
+  "modifier.mintstinker.magicmark.flavor": "发挥想象力吧",
 
   "modifier.mintstinker.windpressure": "风压",
-  "modifier.mintstinker.windpressure.description": "60格范围内给予玩家飞行效果，给予敌对生物重力效果",
+  "modifier.mintstinker.windpressure.description": "给予玩家飞行效果，给予半径20格方块内非玩家生物重力效果",
   "modifier.mintstinker.windpressure.flavor": "飞龙的风系魔法",
 
-  "effect.mintstinker.magical_disease": "魔力短路"
+  "modifier.mintstinker.windblade": "风刃",
+  "modifier.mintstinker.windblade.description": "长按右键时消耗自身魔力对其释放风魔法的斩击",
+  "modifier.mintstinker.windblade.flavor": "解",
+
+  "effect.mintstinker.magical_disease": "魔力短路",
+
+  "entity.mintstinker.wind_blade": "风刃",
+  "subtitles.mintstinker.windblade_launch": "释放斩击"
 }
 

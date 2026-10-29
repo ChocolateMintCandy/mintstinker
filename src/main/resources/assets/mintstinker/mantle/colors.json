@@ -5,7 +5,8 @@
   },
   "modifier.mintstinker": {
     "magicmark": "#9f3ecf",
-    "WindPressure": "#9f3ecf"
+    "windpressure": "#9f3ecf",
+    "windblade": "#2ecf9f"
 
 
   }

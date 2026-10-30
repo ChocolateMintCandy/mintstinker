@@ -9,6 +9,11 @@ public class MintsTinkertab {
         public ItemStack makeIcon() {return new ItemStack(MintsTinkerItem.wizard_alloy.get());}
         };
 
+    public static final CreativeModeTab TOOLS = new CreativeModeTab("mintstinker.tools") {
+        @Override
+        public ItemStack makeIcon() {return new ItemStack(MintsTinkerItem.wind_dragon.get());}
+        };
+
 
 
 

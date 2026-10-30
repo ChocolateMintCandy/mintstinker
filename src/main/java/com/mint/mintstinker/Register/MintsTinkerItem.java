@@ -17,7 +17,7 @@ import static com.mint.mintstinker.MintsTinker.MOD_ID;
 
 public class MintsTinkerItem {
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, MOD_ID);
-    private static final Item.Properties ARMOR = new Item.Properties().stacksTo(1).tab(MintsTinkertab.MATERIALS);
+    private static final Item.Properties ARMOR = new Item.Properties().stacksTo(1).tab(MintsTinkertab.TOOLS);
     public static final ModifiableArmorMaterial MAGITEK_ARMOR_MATERIAL = ModifiableArmorMaterial.create(MintsTinker.getResource("magitek_armor"), SoundEvents.ARMOR_EQUIP_NETHERITE);//魔导铠
     public static final EnumObject<ArmorSlotType, MultilayerArmorItem> MAGITEK_ARMOR = new EnumObject.Builder<ArmorSlotType, MultilayerArmorItem>(ArmorSlotType.class)
             .put(ArmorSlotType.HELMET, ITEMS.register("magitek_armor_helmet", () -> new MultilayerArmorItem(MAGITEK_ARMOR_MATERIAL, ArmorSlotType.HELMET, ARMOR)))//魔导铠头盔
@@ -28,6 +28,6 @@ public class MintsTinkerItem {
     public static final RegistryObject<Item> wizard_alloy = ITEMS.register("wizard_alloy", () -> new Item(new Item.Properties().tab(MintsTinkertab.MATERIALS)));//巫师合金
     public static final RegistryObject<Item> wind_dragon = ITEMS.register("wind_dragon", () -> new Item(new Item.Properties().tab(MintsTinkertab.MATERIALS)));//飓风飞龙
     public static final MaterialStatsId MAGIC_CORE_STAT = new MaterialStatsId(MintsTinker.getResource("magic_core"));
-    public static final RegistryObject<ToolPartItem> magic_core = ITEMS.register("magic_core", () -> new ToolPartItem(new Item.Properties().tab(MintsTinkertab.MATERIALS), MAGIC_CORE_STAT));//魔力核心
+    public static final RegistryObject<ToolPartItem> magic_core = ITEMS.register("magic_core", () -> new ToolPartItem(new Item.Properties().tab(MintsTinkertab.TOOLS), MAGIC_CORE_STAT));//魔力核心
 
 }
